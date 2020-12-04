@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color:rgba(205, 223, 171, 0.753);
+  padding: 10px;
+  
+}
+
+a:hover{
+  color: darkgreen;
+}
+.App-header {
+  background-color: white;
+  background-image: url("collage.jpeg");
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.rectangle{
+  height:700px;
+  width: 700px;
+  background-color: white;
+}
+
+a {
+  color: black;
+  padding: 10px;
+  height: 20px;
+  text-align: center;
+}
+
+.dropdown-menu{
+  text-align: center;
+}
+
